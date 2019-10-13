@@ -1,8 +1,8 @@
 # gojek_landingpage_flutter
 
 Bahan belajar Flutter dengan sumber sebagai berikut:
-- [Membangun Landing Page Aplikasi GO-JEK dengan Flutter SDK](https://medium.com/@riz_maulana/membangun-landing-page-aplikasi-go-jek-dengan-flutter-sdk-bagian-1-3-531d0cd537db)
-- [Membangun Landing Page Aplikasi GO-JEK dengan Flutter SDK](https://github.com/rizmaulana/flutter-gojek-landingpage)
+- [Membangun Landing Page Aplikasi GO-JEK dengan Flutter SDK - Medium](https://medium.com/@riz_maulana/membangun-landing-page-aplikasi-go-jek-dengan-flutter-sdk-bagian-1-3-531d0cd537db)
+- [flutter-gojek-landingpage - GitHub](https://github.com/rizmaulana/flutter-gojek-landingpage)
 
 ## Getting Started
 
